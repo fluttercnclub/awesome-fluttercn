@@ -1,4 +1,4 @@
-# Flutter 中文优质资源列表
+# Flutter 中文优质资源清单
 
 [Flutter](https://flutter.dev/) 是 Google 开源的便携式 UI 工具包，帮助开发者通过一套代码库高效构建多平台精美应用，支持移动、Web、桌面和嵌入式平台。
 
