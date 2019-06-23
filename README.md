@@ -35,11 +35,16 @@
 + [掘金 Flutter 专栏](https://juejin.im/tag/Flutter)：两千多篇文章，相信能找到你想要的
 + [知乎 Flutter 话题](https://www.zhihu.com/topic/20172123/hot)：大量 Flutter 话题相关的内容
 + [简书 Flutter 专题](https://www.jianshu.com/c/85bbb8bb4471)
++ [Flutter完整开发实战详解掘金目录](https://juejin.im/user/582aca2ba22b9d006b59ae68/posts)：第一时间更新掘金实战系列的文章和详解
 
 #### 网站/博客
 
 + [Flutter Codelab](https://codelabs.flutter-io.cn/)：引导式动手编码教程，这里水=是一部分中文教程，值得尝试
 + [CNDARTLANG](http://www.cndartlang.com/) Dart 语言相关的笔记文章
+
+#### 电子书
+
++ [GSYFlutterBook](https://github.com/CarGuo/GSYFlutterBook)：不断更新的 Flutter 实战电子书，支持下载与在线预览
 
 ### 视频教程
 
@@ -63,6 +68,7 @@
 
 + [flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档](https://github.com/alibaba/flutter-go)
 + [Flutter 完全手册](The-Guide-to-the-Flutter)
++ [GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter)： Github Flutter 超完整项目，目前个人项目中 star 最多
 
 ### 工具包
 
