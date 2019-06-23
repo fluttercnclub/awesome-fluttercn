@@ -20,7 +20,7 @@
 + [架构](#架构)
 + [开源项目](#开源项目)
 + [工具包](#工具包)
-+ [Flutter Web](#Flutter Web)
++ [FlutterWeb](#FlutterWeb)
 
 ### 文字教程
 
@@ -64,7 +64,7 @@
 
 ### 工具包
 
-### Flutter Web
+### FlutterWeb
 
 ### License
 
