@@ -2,6 +2,8 @@
 
 [Flutter](https://flutter.dev/) 是 Google 开源的便携式 UI 工具包，帮助开发者通过一套代码库高效构建多平台精美应用，支持移动、Web、桌面和嵌入式平台。
 
+![](https://github.com/fluttercnclub/awesome-fluttercn/blob/master/src/flutter.jpg)
+
 学习 Flutter 的过程中需要搜索很多相关的资料，但是中文优质资源十分分散，以至于很难快速找到自己想要的资料。本仓库旨在搜集优秀的 Flutter 资源清单，便于开发者方便查找。
 
 如果你觉得这份清单对你有用，请赏个 ⭐ ！
