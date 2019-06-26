@@ -69,6 +69,7 @@
 + [flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档](https://github.com/alibaba/flutter-go)
 + [Flutter 完全手册](The-Guide-to-the-Flutter)
 + [GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter)： Github Flutter 超完整项目，目前个人项目中 star 最多
++ [FlutterDouBan](https://github.com/kaina404/FlutterDouBan) Flutter豆瓣客户端, 2000+ Star，还原度高
 
 ### 工具包
 
