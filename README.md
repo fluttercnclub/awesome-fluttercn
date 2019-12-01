@@ -27,7 +27,7 @@
 #### 中文文档
 
 + [Dart 中文文档](http://dart.goodev.org) 
-+ [https://flutter-io.cn/docs](https://flutter-io.cn/docs)：大佬们合力打造，文档很新，翻译很全
++ [https://flutter.cn/docs](https://flutter.cn/docs)：Flutter中文官网，大佬们合力打造，文档很新，翻译很全
 
 #### 文章合集
 
@@ -53,8 +53,6 @@
 + [技术胖网站上 Flutter 相关的教程](https://jspang.com)
 
 ### 社区
-
-+ [FlutterCN](https://www.fluttercn.net/)：专业的 Flutter 中文技术社区
 
 ### UI
 
